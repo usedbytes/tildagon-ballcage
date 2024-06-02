@@ -9,7 +9,7 @@ category = "Badge"
 # OPTIONAL: Same as above, for compatibility with older firmware
 # versions that can't handle categories introduced afterwards.
 # One of: "Badge", "Music", "Apps"
- menu = "Badge"
+ menu = "Apps"
 
 # OPTIONAL: If your app prefers wifi to be off or on when entering.
 # Useful if you want more resources (false) or need wifi (true).
@@ -31,10 +31,10 @@ license = "LGPL-3.0-only"
 url = "https://github.com/usedbytes/tildagon-ballcage"
 
 # Description of your app.  Maximum 140 characters!
-description = "A Googly Eye. Everyone loves Googly Eyes. The physics is a bit jank, but I'm too sick to make it better."
+description = "A Googly Eye. Everyone loves Googly Eyes. The physics is a bit jank."
 
 # Version number of your app.  If you push a commit where this number is
 # increased, we interpret this as a new version being released.
 #
 # Version number must be an integer!
-version = "0.0.2"
+version = "0.0.4"
