@@ -1,6 +1,6 @@
 [app]
 # The name of your app as displayed in the menu
-name = "Demo App"
+name = "Googly"
 
 # The submenu where your app should appear.
 # One of: "Badge", "Music", "Media", "Apps", "Games"
@@ -9,7 +9,7 @@ category = "Badge"
 # OPTIONAL: Same as above, for compatibility with older firmware
 # versions that can't handle categories introduced afterwards.
 # One of: "Badge", "Music", "Apps"
-# menu = "Badge"
+ menu = "Badge"
 
 # OPTIONAL: If your app prefers wifi to be off or on when entering.
 # Useful if you want more resources (false) or need wifi (true).
@@ -22,7 +22,7 @@ category = "Badge"
 
 [metadata]
 # Your nickname.  Must be at most 32 characters!
-author = "hughrawlinson"
+author = "usedbytes"
 
 # License of your app as an SPDX identifier: <https://spdx.org/licenses/>
 license = "LGPL-3.0-only"
@@ -31,7 +31,7 @@ license = "LGPL-3.0-only"
 url = "https://www.github.com/hughrawlinson/tildagon-demo"
 
 # Description of your app.  Maximum 140 characters!
-description = "A demo tildagon app for use developing the app directory"
+description = "A Googly Eye. Everyone loves Googly Eyes. The physics is a bit jank, but I'm too sick to make it better."
 
 # Version number of your app.  If you push a commit where this number is
 # increased, we interpret this as a new version being released.
